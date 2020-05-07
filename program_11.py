@@ -2,7 +2,8 @@
 """
 Author: Pin-Ching Li
 This script is created on 04/29/2020
-
+This script aims to visualize annual and monthly statsitical metrics 
+Also, return period is calculated and visualized
 """
 
 import pandas as pd
